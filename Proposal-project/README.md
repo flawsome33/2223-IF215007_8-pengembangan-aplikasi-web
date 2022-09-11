@@ -55,3 +55,5 @@
 | rinciannutrisi | 23        | Kalori 558 kkal (26%), Karbo 64gr (18%), Protein 21gr (39%), Lemak 26gr (36%) |
 
 ## UX Wireframe
+![Manufacture Production Modern Dark Minimalist Dashboard Website Desktop Magenta White Blue (1)](https://user-images.githubusercontent.com/75475592/189537867-4f5f1aa3-8254-409c-8111-c1589eb897f2.png)![Manufacture Production Modern Dark Minimalist Dashboard Website Desktop Magenta White Blue (2)](https://user-images.githubusercontent.com/75475592/189537877-bba20231-59e2-47c2-b250-0d62a7fae760.png)
+
