@@ -28,31 +28,31 @@
 
 | Atribut      | Tipe Data | Contoh         |
 | ------------ | --------- | ------         |
-| id           | 27        | 110922233017   |
-| usia         | 23        | 20             |
-| jeniskelamin | 23        | laki           | 
-| height       | 23        | 154            |
-| weight       | 23        | 59             |
-| bmi          | 23        | 24,9           |
-| ket          | 23        | Healthy Weight |
+| id           | int       | 110922233017   |
+| usia         | int       | 20             |
+| jeniskelamin | string    | laki           | 
+| height       | int       | 154            |
+| weight       | int       | 59             |
+| bmi          | int       | 24,9           |
+| ket          | string    | Healthy Weight |
 
 * Grafik
 
 | Atribut      | Tipe Data | Contoh         |
 | ------------ | --------- | ------         |
-| id           | 27        | 110922233017   |
-| bmi          | 23        | 20,50          |
-| tanggal      | 23        | 2012           | 
+| id           | int       | 110922233017   |
+| bmi          | int       | 20,50          |
+| tanggal      | date      | 2012           | 
 
 * Resep
 
 | Atribut        | Tipe Data | Contoh                                                                        |
 | -------------- | --------- | ----------------------------------------------------------------------------- |
-| id             | 27        | 1111                                                                          |
-| video          | 27        | 1111                                                                          |
-| namamakanan    | 23        | Nasi Goreng                                                                   |
-| infoumum       | 23        | Porsi 1 orang, Harga 15.000, Kesulitan rendah                                 |
-| rinciannutrisi | 23        | Kalori 558 kkal (26%), Karbo 64gr (18%), Protein 21gr (39%), Lemak 26gr (36%) |
+| id             | int       | 1111                                                                          |
+| video          | blob      | 1111                                                                          |
+| namamakanan    | string    | Nasi Goreng                                                                   |
+| infoumum       | string    | Porsi 1 orang, Harga 15.000, Kesulitan rendah                                 |
+| rinciannutrisi | string    | Kalori 558 kkal (26%), Karbo 64gr (18%), Protein 21gr (39%), Lemak 26gr (36%) |
 
 ## UX Wireframe
 ![Manufacture Production Modern Dark Minimalist Dashboard Website Desktop Magenta White Blue (1)](https://user-images.githubusercontent.com/75475592/189537867-4f5f1aa3-8254-409c-8111-c1589eb897f2.png)![Manufacture Production Modern Dark Minimalist Dashboard Website Desktop Magenta White Blue (2)](https://user-images.githubusercontent.com/75475592/189537877-bba20231-59e2-47c2-b250-0d62a7fae760.png)
